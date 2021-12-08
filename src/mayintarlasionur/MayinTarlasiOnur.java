@@ -14,8 +14,7 @@ public class MayinTarlasiOnur {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // ONUR SÖNMEZ - 190508356
-        // HOCAM ÖDEVİN ZORLUK DERECESİ KISMINI YARDIM ALARAK YAPTIM...
+       
         
         Random rnd = new Random();
        int satirSayisi,sutunSayisi,zorlukDerecesi,rastgele;
