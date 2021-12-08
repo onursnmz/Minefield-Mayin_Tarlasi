@@ -1,2 +1,2 @@
 # MayinTarlasiOnur
- Matris girdisi girerek mayın tarlası oluşturma
+ Matris verisi girilerek mayın tarlası oluşturma
